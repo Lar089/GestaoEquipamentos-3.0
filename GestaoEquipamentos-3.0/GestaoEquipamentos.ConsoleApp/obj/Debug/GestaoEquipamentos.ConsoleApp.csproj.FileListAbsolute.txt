@@ -1,0 +1,14 @@
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe.config
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.pdb
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csprojAssemblyReference.cache
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.exe
+D:\Repositórios\GestaoEquipamentos\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.pdb
+C:\Users\Cliente\OneDrive\Documentos\NDD\GestaoEquipamentos-3.0\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe.config
+C:\Users\Cliente\OneDrive\Documentos\NDD\GestaoEquipamentos-3.0\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.exe
+C:\Users\Cliente\OneDrive\Documentos\NDD\GestaoEquipamentos-3.0\GestaoEquipamentos.ConsoleApp\bin\Debug\GestaoEquipamentos.ConsoleApp.pdb
+C:\Users\Cliente\OneDrive\Documentos\NDD\GestaoEquipamentos-3.0\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Cliente\OneDrive\Documentos\NDD\GestaoEquipamentos-3.0\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\OneDrive\Documentos\NDD\GestaoEquipamentos-3.0\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.exe
+C:\Users\Cliente\OneDrive\Documentos\NDD\GestaoEquipamentos-3.0\GestaoEquipamentos.ConsoleApp\obj\Debug\GestaoEquipamentos.ConsoleApp.pdb
