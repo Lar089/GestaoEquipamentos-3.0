@@ -1,0 +1,1 @@
+# GestaoEquipamentos-3.0
